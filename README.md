@@ -1,2 +1,92 @@
-# gerenciadordetarefas
-Brincando com python
+# Gerenciador de Lista de Tarefas (To-Do List)
+
+Este é um gerenciador simples de tarefas em Python, executado via terminal. Permite adicionar, visualizar, atualizar, completar e remover tarefas completadas.
+
+## Como executar
+
+1. Certifique-se de ter o Python instalado em sua máquina.
+2. No terminal, navegue até a pasta `Projeto`:
+   ```sh
+   cd Projeto
+   ```
+3. Execute o script:
+   ```sh
+   python gerenciador.py
+   ```
+
+## Funcionalidades
+
+- **Adicionar tarefa:** Insira uma nova tarefa na lista.
+- **Ver tarefas:** Exibe todas as tarefas com seu status (Pendente ou Completa).
+- **Atualizar tarefa:** Altere o nome de uma tarefa existente.
+- **Completar tarefa:** Marque uma tarefa como concluída.
+- **Deletar tarefas completadas:** Remove todas as tarefas que já foram concluídas.
+- **Sair:** Encerra o programa.
+
+## Exemplo de uso
+
+```
+Menu Gerenciador de Lista de tarefas
+1. Adicionar tarefa
+2. Ver tarefas
+3. Atualizar tarefa
+4. Completar tarefa
+5. Deletar tarefas completadas
+6. Sair
+Escolha uma opção: 1
+Digite o nome da tarefa: Estudar Python
+Tarefa 'Estudar Python' adicionada com sucesso!
+```
+
+## Observações
+
+- Os índices das tarefas começam em 1 na interface do usuário.
+- O programa não salva as tarefas após ser encerrado (não há persistência em arquivo).
+
+---
+```# Gerenciador de Lista de Tarefas (To-Do List)
+
+Este é um gerenciador simples de tarefas em Python, executado via terminal. Permite adicionar, visualizar, atualizar, completar e remover tarefas completadas.
+
+## Como executar
+
+1. Certifique-se de ter o Python instalado em sua máquina.
+2. No terminal, navegue até a pasta `Projeto`:
+   ```sh
+   cd Projeto
+   ```
+3. Execute o script:
+   ```sh
+   python gerenciador.py
+   ```
+
+## Funcionalidades
+
+- **Adicionar tarefa:** Insira uma nova tarefa na lista.
+- **Ver tarefas:** Exibe todas as tarefas com seu status (Pendente ou Completa).
+- **Atualizar tarefa:** Altere o nome de uma tarefa existente.
+- **Completar tarefa:** Marque uma tarefa como concluída.
+- **Deletar tarefas completadas:** Remove todas as tarefas que já foram concluídas.
+- **Sair:** Encerra o programa.
+
+## Exemplo de uso
+
+```
+Menu Gerenciador de Lista de tarefas
+1. Adicionar tarefa
+2. Ver tarefas
+3. Atualizar tarefa
+4. Completar tarefa
+5. Deletar tarefas completadas
+6. Sair
+Escolha uma opção: 1
+Digite o nome da tarefa: Estudar Python
+Tarefa 'Estudar Python' adicionada com sucesso!
+```
+
+## Observações
+
+- Os índices das tarefas começam em 1 na interface do usuário.
+- O programa não salva as tarefas após ser encerrado (não há persistência em arquivo).
+
+---
